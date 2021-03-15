@@ -25,7 +25,7 @@ Testing the build:
 1. To run tests, find the container_id
     - docker container list -a
 2. Execute the tests, replace container_id with your own.
-3. - docker exec CONTAINER_ID npm test unit.js
+    - docker exec CONTAINER_ID npm test unit.js
 
 To set this up as a pipeline in Github and deploy to DockerHub:
 1. Use the YAML template provided in /.github/workflows
