@@ -1,5 +1,6 @@
-Created by Michael Zdravkovski.
-LinkedIn: linkedin.com/in/michael-zdravkovski
+- Created by Michael Zdravkovski.
+- LinkedIn: linkedin.com/in/michael-zdravkovski
+- Docker Repository: https://hub.docker.com/repository/docker/mz1234/bob-tech-challenge
 
 NodeJS has been used to host a MockServer to send requests to in order to retrieve the latest Git commit hash, App name and also the app version. 
 
